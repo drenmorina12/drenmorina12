@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dren Morina</h1>
-<h3 align="center">A passionate Computer Engineering Student from Kosova</h3>
+<h1 align="center">I'm Dren Morina</h1>
+<h3 align="center">A Computer Engineering Student from Kosova</h3>
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
 
